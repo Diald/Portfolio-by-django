@@ -1,0 +1,19 @@
+The Personal Portfolio Website with Django Framework is an online platform designed to showcase the skills, achievements, and projects of an individual. This project aims to provide a seamless and interactive experience for users to learn about the creator's expertise, view their work, and contact them for potential opportunities or collaborations.
+
+Django provides a python Framework which is used to create webpages. Django is also called as batteries as it provides built in fucntions including admin interface. 
+
+TECHNOLOGY STACK:
+Django Framework: The core of the website, providing robust backend functionality.
+HTML5/CSS3: For the website's structure and styling.
+
+PROJECT GOALS- 
+1. Create a visually appealing and user-friendly portfolio website.
+2. Showcase the creator's skills, projects, and expertise.
+3. Demonstrate proficiency in using Django for web development.
+4. Gain practical experience in front-end development and responsive design.
+
+It is a very basic website whose main focus is to learn how to work with django framework. 
+FUTURE IMPROVEMENTS: 
+1. Admin Panel: The creator can manage and update their portfolio easily through a user-friendly admin panel. They can add new projects, edit content, and moderate comments.
+2. SQLite/PostgreSQL: As the database management system.
+3. Deployment: Using a hosting service like AWS, Heroku, or DigitalOcean.
